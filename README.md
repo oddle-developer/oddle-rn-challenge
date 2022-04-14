@@ -73,4 +73,4 @@ To complete the challenge, your Product Listing App should fit the following cri
     5. The link to download the Android *.apk
 
 ## Oddle Challenge API
-Vsit this [link](https://oddle-challenge-api.herokuapp.com) for instructions and documentaions
+Instructions and documentation can be found at this [site](https://oddle-challenge-api.herokuapp.com).

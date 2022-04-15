@@ -23,15 +23,15 @@ Create a Product Listing App built in React Native that allows users to like the
 
 ## Preparation
 
-To complete this challenge, **you must use the products provided in this challenge**. The list of products is located in the [oddle/oddle-rn-challenge-graphcms](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) repo and should be uploaded to your GraphCMS project where it will be retrieved by your Product Listing App. To begin, follow the steps outlined bellow
+To complete this challenge, **you must use the products provided in the [oddle/oddle-rn-challenge-graphcms](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) repo**. Moreover, the product should be uploaded to your GraphCMS project where it will be retrieved by your Product Listing App. To begin, follow the steps outlined bellow
 
-1. [Create a GraphCMS account if you don’t have any](https://app.graphcms.com/signup)
+1. [Create a GraphCMS account](https://app.graphcms.com/signup) if you don’t have any
 
-2. [Once completed, login with your recently created account and create a new free GraphCMS project](https://app.graphcms.com/create) 
+2. Once completed, login with your recently created account and [create a new free GraphCMS project](https://app.graphcms.com/create) 
 
 3. Pull [oddle-rn-challenge-graphcms repo](https://github.com/oddle-developer/oddle-rn-challenge-graphcms)
 
-4. Upload the list of products to your GraphCMS project following the instructions written in the oddle-rn-challenge-graphcms repo [README.md](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) file
+4. Upload the list of products to your GraphCMS project following the instructions written in the [oddle-rn-challenge-graphcms repo README.md](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) file
 
 ## Requirements
 

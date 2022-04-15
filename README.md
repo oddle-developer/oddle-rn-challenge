@@ -1,19 +1,19 @@
 
 # Oddle RN Challenge
 
-Create a Product Listing App written in React Native that allows a user to like their favourite product and get a list of recommendations 
+Create a Product Listing App built in React Native that allows users to like their favorite product and receive a list of recommendations based on the products provided in this challenge 
 
 - [Instructions](#instructions)
 - [Preparation](#preparation)
 - [Requirements](#requirements)
-- [Submission Steps](#submission-steps)
 - [Oddle Challenge API](#oddle-challenge-api)
+- [Submission Steps](#submission-steps)
 
 ## Instructions
 
-1. Allocate maximum 4 days for this project, from the day you receive the challenge instruction
+1. Allocate maximum 4 days for this project, starting on the day you get the challenge instructions
 
-2. Upload a list of items to GraphCMS following the steps explained in the [Preparation](#preparation) section
+2. Upload the list of products to GraphCMS following the steps explained in the [Preparation](#preparation) section
 
 3. Create a React Native application that meets the requirements outlined in the [Requirements](#requirements) section
 
@@ -23,35 +23,41 @@ Create a Product Listing App written in React Native that allows a user to like 
 
 ## Preparation
 
-In this challenge, you must upload a list of products to GraphCMS which will subsequently be retrieved by your Product Listing App. To begin, follow the instructions listed below
+To complete this challenge, **you must use the products provided in this challenge**. The list of products is located in the [oddle/oddle-rn-challenge-graphcms](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) repo and should be uploaded to your GraphCMS project where it will be retrieved by your Product Listing App. To begin, follow the steps outlined bellow
 
-1. Create a GraphCMS account if you don’t have any - [GraphCMS](https://app.graphcms.com/signup)
+1. [Create a GraphCMS account if you don’t have any](https://app.graphcms.com/signup)
 
-2. Once completed, login with your recently created account and create a new free GraphCMS project -  [GraphCMS](https://app.graphcms.com/create) 
+2. [Once completed, login with your recently created account and create a new free GraphCMS project](https://app.graphcms.com/create) 
 
-3. Pull oddle-rn-challenge-graphcms repo - [oddle/oddle-rn-challenge-graphcms](https://github.com/oddle-developer/oddle-rn-challenge-graphcms)
+3. Pull [oddle-rn-challenge-graphcms repo](https://github.com/oddle-developer/oddle-rn-challenge-graphcms)
 
-4. Upload the list of products to your GraphCMS project following the instructions written in the repo’s README.md file
+4. Upload the list of products to your GraphCMS project following the instructions written in the oddle-rn-challenge-graphcms repo [README.md](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) file
 
 ## Requirements
 
 To complete the challenge, your Product Listing App should fit the following criteria
 
-1. Follow the design specification illustrated in this Figma file - [Oddle Challenge](https://www.figma.com/file/bUMsO0Xjw8lVpNGRgSpfzq/Oddle-Challenge?node-id=0%3A1)
+1. Follow the design specification illustrated in this Figma file - [Oddle Challenge Figma](https://www.figma.com/file/bUMsO0Xjw8lVpNGRgSpfzq/Oddle-Challenge?node-id=0%3A1)
 
-2. Follow the UX specification stated in this Miro board - [Oddle Challenge](https://miro.com/app/board/o9J_lqgQ9tM=/?invite_link_id=208262924513) (password: BbScevY4ry2ZvxHg)
+2. Follow the UX specification stated in this Miro board - [Oddle Challenge Miro](https://miro.com/app/board/o9J_lqgQ9tM=/?invite_link_id=208262924513) (password: BbScevY4ry2ZvxHg)
 
-3. Support both Android and iOS
+3. Compatible with both Android and iOS
 
 4. Written in React Native 
 
 4. Use React Native Paper as the main UI library
 
-5. Fetch and display product data from GraphCMS
+5. Use the product data provided in this challenge
 
-6. Utilise [Oddle Challenge API](#oddle-challenge-api) to store user’s favourite products
+6. Fetch and display the product data from GraphCMS
 
-7. Provide build instructions (Android and iOS) in the repo README.md file
+7. Utilise [Oddle Challenge API](#oddle-challenge-api) to store user’s favourite products
+
+8. Provide both Android and iOS build instructions
+
+
+## Oddle Challenge API
+API for building a simple like/unlike feature in your application. Instructions and documentation can be found in this [link](https://oddle-challenge-api.herokuapp.com)
 
 
 ## Submission Steps
@@ -61,7 +67,7 @@ To complete the challenge, your Product Listing App should fit the following cri
 
 3. Code, commit. and push as many times as you want
 
-4. After you are done, create a merge request in your private repo and invite oddle-developer as the reviewer
+4. After you are done, create a merge request in your private repo and invite [oddle-developer](https://github.com/oddle-developer) as the reviewer
 
 5. The last merge request will be graded
 
@@ -69,8 +75,6 @@ To complete the challenge, your Product Listing App should fit the following cri
     1. Full Name
     2. Email Address
     3. How did you know about this job
-    4. Feedback on this assessment
-    5. The link to download the Android *.apk
+    4. The link to download your Android *.apk
+    5. Feedback on this assessment
 
-## Oddle Challenge API
-Instructions and documentation can be found at this [site](https://oddle-challenge-api.herokuapp.com).

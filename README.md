@@ -11,7 +11,7 @@ Create a Product Listing App built in React Native that allows users to like the
 
 ## Instructions
 
-1. Allocate maximum 4 days for this project, starting on the day you get the challenge instructions
+1. Allocate maximum 24 hours for this project
 
 2. Upload the list of products to GraphCMS following the steps explained in the [Preparation](#preparation) section
 

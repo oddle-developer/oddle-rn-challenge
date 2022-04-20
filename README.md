@@ -15,7 +15,8 @@ Create a Product Listing App built in React Native that allows users to like the
 
 2. Upload the list of products to GraphCMS following the steps explained in the [Preparation](#preparation) section
 
-3. Create a React Native application that meets the requirements outlined in the [Requirements](#requirements) section
+3. Create a React Native application that meets the requirements outlined in the [Requirements](#requirements) section.
+    - To help you get started, components snippets and resources are provided for your convenience in the [oddle-rn-challenge-starterpack](https://github.com/oddle-developer/oddle-rn-challenge-starterpack) repo 
 
 4. Generate the Android release build *.apk (iOS *.ipa is not required)
 

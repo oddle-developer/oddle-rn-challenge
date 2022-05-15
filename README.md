@@ -64,11 +64,11 @@ API for building a simple like/unlike feature in your application. Instructions 
 ## Submission Steps
 1. Create a private repository on your Github account
 
-2. Add [oddle-developer](https://github.com/oddle-developer) as the collaborator of your repo
+2. Add [oddle-hire-rn](https://github.com/oddle-hire-rn) as the collaborator of your repo
 
 3. Code, commit. and push as many times as you want
 
-4. After you are done, create a merge request in your private repo and invite [oddle-developer](https://github.com/oddle-developer) as the reviewer
+4. After you are done, create a merge request in your private repo and invite [oddle-hire-rn](https://github.com/oddle-hire-rn) as the reviewer
 
 5. The last merge request will be graded
 

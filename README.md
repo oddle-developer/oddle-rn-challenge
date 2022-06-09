@@ -40,7 +40,7 @@ To complete the challenge, your Product Listing App should fit the following cri
 
 1. Follow the design specification illustrated in this Figma file - [Oddle Challenge Figma](https://www.figma.com/file/bUMsO0Xjw8lVpNGRgSpfzq/Oddle-Challenge?node-id=0%3A1)
 
-2. Follow the UX specification stated in this Miro board - [Oddle Challenge Miro](https://miro.com/app/board/o9J_lqgQ9tM=/?invite_link_id=208262924513) (password: BbScevY4ry2ZvxHg)
+2. Follow the UX specification stated in this Miro board - [Oddle Challenge Miro](https://miro.com/app/board/o9J_lqgQ9tM=/?share_link_id=96240267827) (password: BbScevY4ry2ZvxHg)
 
 3. Compatible with both Android and iOS
 

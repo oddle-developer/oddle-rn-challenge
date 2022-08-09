@@ -1,81 +1,58 @@
-
-# Oddle RN Challenge
-
-Create a Product Listing App built in React Native that allows users to like their favorite product and receive a list of recommendations based on the products provided in this challenge 
-
-- [Instructions](#instructions)
-- [Preparation](#preparation)
-- [Requirements](#requirements)
-- [Oddle Challenge API](#oddle-challenge-api)
-- [Submission Steps](#submission-steps)
+The Oddle RN Challenge Board
 
 ## Instructions
+   That was a true challenge for me, i never use graphQL before. So, start from scratch, i have reading the offical document and the demonstration repository of Hygraph, so some query functions may not optimized or it's not doing right method. while implement, i've found some mistake of this challenge document and some question, but because of limitation of communicate, so i'm solved my self, may be it's wrong.
 
-1. Allocate maximum 24 hours for this project
+## Task List(Actual)
+- Read & Analytic the challenge document: 0.5h
+- Create GraphCMS then Import Datasource by oddle-rn-challenge-graphcms repository: 0.5h
+- Checking the design and the flow explaination: 0.5h
+- Checking the challenge api(https://oddle-challenge-api.herokuapp.com/ - https://oddle-react-native-challenge.herokuapp.com/): 0.5h
+- Breaking down the application functions: 1h
+- Question & Answers: 1h
+- Prepare Application Source Code(Base): 0.5h
+- Add react-native-paper, graphql-client and apply font, default theme: 0.5h
+- Learning and apply GraphQL to Service layer: 1h
+- Implement Redux Action, graphQL query, rest request: 2h
+- Implement Base Tab Controller(Dashboard): 0.5h
+- Implement Shop Tab(Shop): 4h
+- Implement Home Tab(Home): 3h
+- Implement Favourites Tab(Favourites): 2h
+- Intergration between Tabs: 2h
+- Refactoring & Clean Clode: 2h(80% Progress)
+- Self Review & Testing: 3h
 
-2. Upload the list of products to GraphCMS following the steps explained in the [Preparation](#preparation) section
+## Source Code
+   The source code are base on TypeScript and Classes style, inspired by classes programming for easy maintenance, inherited, extends
 
-3. Create a React Native application that meets the requirements outlined in the [Requirements](#requirements) section.
-    - To help you get started, components snippets and resources are provided for your convenience in the [oddle-rn-challenge-starterpack](https://github.com/oddle-developer/oddle-rn-challenge-starterpack) repo 
+## TODO
+   The scope are within phone UI. So, tablet UI need porting/adaptation<br/>
+   Tuning, Refactoring & Cleaning, Unit Test, Fix Bugs, Reviewing
 
-4. Generate the Android release build *.apk (iOS *.ipa is not required)
+## Release
+   [Oddle-dev-1.0(1).apk](https://github.com/linhnt3012/oddle-rn-app/raw/master/android/app/release/oddle-dev-1.0(1).apk)
 
-5. Submit the challenge following the steps explained in the [Submission Steps](#submission-steps) section
+## Build/Compile
+  The source code are built with vanilla template so not require any 3rd platform(such as expo).<br/>
+  Environment working flawlessly:
+   - Node: 14.19.3
+   - OS: MacOSX Monterey 12.5(intel base cpu)
+   - Xcode: 12.5
+   - Android Studio: 2021.1.1 Patch 2
+  
+  Following offical document of React Native to next step(https://reactnative.dev/docs/environment-setup)
 
-## Preparation
+## Preview
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/1.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/2.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/3.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/4.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/5.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/6.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/7.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/8.png" width=30% height=30%>
 
-To complete this challenge, **you must use the products provided in the [oddle/oddle-rn-challenge-graphcms](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) repo**. Moreover, the product should be uploaded to your GraphCMS project where it will be retrieved by your Product Listing App. To begin, follow the steps outlined bellow
-
-1. [Create a GraphCMS account](https://app.graphcms.com/signup) if you don’t have any
-
-2. Once completed, login with your recently created account and [create a new free GraphCMS project](https://app.graphcms.com/create) 
-
-3. Pull [oddle-rn-challenge-graphcms repo](https://github.com/oddle-developer/oddle-rn-challenge-graphcms)
-
-4. Upload the list of products to your GraphCMS project following the instructions written in the [oddle-rn-challenge-graphcms repo README.md](https://github.com/oddle-developer/oddle-rn-challenge-graphcms) file
-
-## Requirements
-
-To complete the challenge, your Product Listing App should fit the following criteria
-
-1. Follow the design specification illustrated in this Figma file - [Oddle Challenge Figma](https://www.figma.com/file/bUMsO0Xjw8lVpNGRgSpfzq/Oddle-Challenge?node-id=0%3A1)
-
-2. Follow the UX specification stated in this Miro board - [Oddle Challenge Miro](https://miro.com/app/board/o9J_lqgQ9tM=/?share_link_id=96240267827) (password: BbScevY4ry2ZvxHg)
-
-3. Compatible with both Android and iOS
-
-4. Written in React Native 
-
-4. Use React Native Paper as the main UI library
-
-5. Use the product data provided in this challenge
-
-6. Fetch and display the product data from GraphCMS
-
-7. Utilise [Oddle Challenge API](#oddle-challenge-api) to store user’s favourite products
-
-8. Provide both Android and iOS build instructions
-
-
-## Oddle Challenge API
-API for building a simple like/unlike feature in your application. Instructions and documentation can be found in this [link](https://oddle-challenge-api.herokuapp.com)
-
-
-## Submission Steps
-1. Create a private repository on your Github account
-
-2. Add [oddle-hire-rn](https://github.com/oddle-hire-rn) as the collaborator of your repo
-
-3. Code, commit. and push as many times as you want
-
-4. After you are done, create a merge request in your private repo and invite [oddle-hire-rn](https://github.com/oddle-hire-rn) as the reviewer
-
-5. The last merge request will be graded
-
-6. In your pull request description, please add the following information:
-    1. Full Name
-    2. Email Address
-    3. How did you know about this job
-    4. The link to download your Android *.apk
-    5. Feedback on this assessment
-
+## Contact
+Email: linhtiendev@gmail.com<br />
+Telegram: https://t.me/linhtomz<br />
+Skype: https://join.skype.com/invite/gRMx5RUJsHeM<br />

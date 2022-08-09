@@ -1,0 +1,5 @@
+export { default as Splash } from './Splash'
+export { default as Home } from './Home'
+export { default as Shop } from './Shop'
+export { default as Favourite } from './Favourite'
+export { default as Detail } from './Detail'

@@ -30,7 +30,7 @@ The Oddle RN Challenge Board
    Tuning, Refactoring & Cleaning, Unit Test, Fix Bugs, Reviewing
 
 ## Release
-   [Oddle-dev-1.0(1).apk](https://github.com/linhnt3012/oddle-rn-app/raw/master/android/app/release/oddle-dev-1.0(1).apk)
+   [Oddle-dev-1.0(1).apk](https://github.com/linhnt3012/oddle-rn-challenge/raw/master/android/app/release/oddle-dev-1.0(1).apk)
 
 ## Build/Compile
   The source code are built with vanilla template so not require any 3rd platform(such as expo).<br/>
@@ -43,14 +43,14 @@ The Oddle RN Challenge Board
   Following offical document of React Native to next step(https://reactnative.dev/docs/environment-setup)
 
 ## Preview
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/1.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/2.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/3.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/4.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/5.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/6.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/7.png" width=30% height=30%>
-<img src="https://github.com/linhnt3012/oddle-rn-app/raw/master/images/8.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/1.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/2.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/3.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/4.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/5.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/6.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/7.png" width=30% height=30%>
+<img src="https://github.com/linhnt3012/oddle-rn-challenge/raw/master/images/8.png" width=30% height=30%>
 
 ## Contact
 Email: linhtiendev@gmail.com<br />
